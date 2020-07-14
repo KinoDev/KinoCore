@@ -1,0 +1,7 @@
+name: KinoCore
+version: ${project.version}
+main: cn.kinomc.core.main
+api-version: 1.16
+authors: [KinoMC]
+description: KinoCore
+website: kinomc.cn
