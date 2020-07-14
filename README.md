@@ -17,6 +17,7 @@ KinoMC Plugin Base
 	<groupId>com.github.KinoDev</groupId>
 	<artifactId>KinoCore</artifactId>
 	<version>-SNAPSHOT</version>
+	<scope>compile</scope>
 </dependency>
 ```
 #### Gradle
@@ -27,6 +28,6 @@ repositories {
 ```
 ```text
 dependencies {
-        implementation 'com.github.KinoDev:KinoCore:-SNAPSHOT'
+        compile 'com.github.KinoDev:KinoCore:-SNAPSHOT'
 }
 ```
