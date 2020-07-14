@@ -28,6 +28,6 @@ repositories {
 ```
 ```text
 dependencies {
-        compile 'com.github.KinoDev:KinoCore:-SNAPSHOT'
+        api 'com.github.KinoDev:KinoCore:-SNAPSHOT'
 }
 ```
