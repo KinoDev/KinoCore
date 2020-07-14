@@ -1,17 +1,6 @@
 package cn.kinomc.core;
 
-import org.bukkit.plugin.java.JavaPlugin;
-
-public final class main extends JavaPlugin {
-
-    @Override
-    public void onEnable() {
-        // Plugin startup logic
-
-    }
-
-    @Override
-    public void onDisable() {
-        // Plugin shutdown logic
+public class main{
+    public static void main(String[] args) {
     }
 }
